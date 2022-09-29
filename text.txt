@@ -1,1 +1,2 @@
 Line1 in main branch
+Line2 in new1 branch
